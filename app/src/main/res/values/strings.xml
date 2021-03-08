@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework8</string>
+    <string name="tv_print_pin">print PIN</string>
+    <string name="button_ok">OK</string>
+</resources>
